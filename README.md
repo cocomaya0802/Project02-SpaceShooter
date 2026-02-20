@@ -18,6 +18,7 @@ Bullet Hell like where you try to live as long as possible and get the highest s
 https://screamingbrainstudios.itch.io/seamless-space-backgrounds
 (https://foozlecc.itch.io/void-environment-pack) 
 ## Future Development
+Fix the High Score not loading if you didn't get a higher score.
 Personal time to add/refine some features
 ## Created by
 Diego Valle-Morfin
