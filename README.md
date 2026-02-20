@@ -11,9 +11,9 @@ Bullet Hell like where you try to live as long as possible and get the highest s
 
 4. Added background music
 
-5. Added different levels of difficulty which affect number of lives, amount of enemy ships can spawn, amount of meteors spawners.
+5. Added different levels of difficulty which affect number of lives, number of enemy ships can spawn, amount of meteors spawners.
 
-6. Showing Time Alive
+6. Showing Time Alive on end screen
 ## References
 https://screamingbrainstudios.itch.io/seamless-space-backgrounds
 (https://foozlecc.itch.io/void-environment-pack) 
