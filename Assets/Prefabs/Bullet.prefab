@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 6945899361930357908}
   - component: {fileID: 1559078638090653023}
   - component: {fileID: 1638382757087585824}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Bullet
   m_TagString: bullet
   m_Icon: {fileID: 0}
@@ -110,7 +110,7 @@ Rigidbody2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -130,7 +130,7 @@ BoxCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -192,4 +192,4 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: f36f4612cc572e74e84c634436e44295, type: 2}
+    - {fileID: 11400000, guid: 7f6843e440eed9049979f53a1f382601, type: 2}
