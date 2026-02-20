@@ -1,22 +1,26 @@
-# Exercise-02b-Bullets-And-Asteroids
+# Space Shooter
+Context and date
+Description
+## Implementation - List Everything you did for extra points!
+1. Background Image in game
 
-Exercise for MSCH-C220
+2. Use different asset for meteors 
 
-A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
+3. Sounds for Shooting and when an object gets destroyed.
 
-## Implementation
+4. Added background music
 
-Created using [Unity 2022.3.45f](https://unity.com)
+5. Added different levels of difficulty which affect number of lives, amount of enemy ships can spawn, amount of meteors spawners.
 
-Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extension), provided under a [CC0 1.0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/).
-
-The explosion spritesheet was released into the public domain by [StumpyStrust](https://opengameart.org/content/explosion-sheet)
-
+6. Saving High score and Time Alive
 ## References
-None
-
+https://screamingbrainstudios.itch.io/seamless-space-backgrounds
+(https://foozlecc.itch.io/void-environment-pack) 
 ## Future Development
 None
-
 ## Created by
-Nathan Mishler
+Diego Valle-Morfin
+
+
+
+ 
