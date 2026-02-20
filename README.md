@@ -1,6 +1,6 @@
 # Space Shooter
 Finsihed on 2/19/2026
-Description
+Description:
 Bullet Hell like where you try to live as long as possible and get the highest score you can get.
 ## Implementation - List Everything you did for extra points!
 1. Background Image in game
